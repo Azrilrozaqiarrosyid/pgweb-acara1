@@ -1,2 +1,16 @@
 # pgweb-acara1
-Perencanaan produk Web GIS dan GIT
+__Perencanaan produk Web GIS dan GIT__
+
+___
+
+Nama: Azril Rozaqi Ar Rosyid
+
+NIM: 22/504560/SV/21660
+
+Kelas: PGW-B
+
+Avatar :
+
+![Avatar](image\icon.png) 
+
+<img src="image\icon.png" width=200>
