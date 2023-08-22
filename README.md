@@ -11,4 +11,4 @@ Kelas: PGW-B
 
 Avatar :
 
-![Avatar](image\icon.png) 
+<img src="image\icon.png" width=200>
